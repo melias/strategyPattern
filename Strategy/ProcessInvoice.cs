@@ -4,9 +4,24 @@ namespace Strategy
 {
     public class ProcessInvoice
     {
-        public void Process(Invoice invoice, ITax tax) 
+        public void Process(Invoice invoice) 
         {
-            tax.Calculate(invoice);
+            if (invoice.Type == TypeInvoice.company)
+            {
+                invoice.AddValueWithTax(invoice.Value * 1.23);
+            }
+            else if (invoice.Type == TypeInvoice.company)
+            {
+                invoice.AddValueWithTax(invoice.Value * 1.16);
+            }
+            else if (invoice.Type == TypeInvoice.company)
+            {
+                invoice.AddValueWithTax(invoice.Value * 1.12);
+            }
+            else 
+            {
+                throw new Exception();
+            }
             Console.WriteLine($"Invoice to '{invoice.Name}' generated with sucess, value with tax: {invoice.Value}");
         }
     }
