@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#BackupKeezag20210514\\WS\\melias\\Strategy\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "C:\\WS\\melias\\strategyPattern\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "E:\\#BackupKeezag20210514\\WS\\melias\\Strategy\\Strategy\\Strategy.csproj",
+      "projectPath": "C:\\WS\\melias\\strategyPattern\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\Maykon Elias\\.nuget\\packages\\",
-      "outputPath": "E:\\#BackupKeezag20210514\\WS\\melias\\Strategy\\Strategy\\obj\\",
+      "outputPath": "C:\\WS\\melias\\strategyPattern\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

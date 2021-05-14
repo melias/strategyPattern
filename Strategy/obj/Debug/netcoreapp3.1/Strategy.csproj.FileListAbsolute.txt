@@ -11,3 +11,16 @@ E:\#BackupKeezag20210514\WS\melias\Strategy\Strategy\obj\Debug\netcoreapp3.1\Str
 E:\#BackupKeezag20210514\WS\melias\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
 E:\#BackupKeezag20210514\WS\melias\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
 E:\#BackupKeezag20210514\WS\melias\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\WS\melias\strategyPattern\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\WS\melias\strategyPattern\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

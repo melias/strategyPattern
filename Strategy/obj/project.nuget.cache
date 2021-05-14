@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KE9u0cys5ACvYqeDJjSL9joP/M3A1+WaCB8EW4zA6+lzAFnAa8Dkoiq7zwo54z8O6YxizMZ/oUl38T8SFwDj+w==",
+  "dgSpecHash": "hkKPql1Sw9I4RPjQEQSBl6rRQQRtA6l1AkhJL7x7pXWqgj1mmPxH1JJNYeNJ0eZ+5NddsbK+KCRGGaUObR1Qlw==",
   "success": true,
-  "projectFilePath": "E:\\#BackupKeezag20210514\\WS\\melias\\Strategy\\Strategy\\Strategy.csproj",
+  "projectFilePath": "C:\\WS\\melias\\strategyPattern\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
