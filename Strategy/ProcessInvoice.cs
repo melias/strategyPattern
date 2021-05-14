@@ -10,11 +10,11 @@ namespace Strategy
             {
                 invoice.AddValueWithTax(invoice.Value * 1.23);
             }
-            else if (invoice.Type == TypeInvoice.company)
+            else if (invoice.Type == TypeInvoice.personal)
             {
                 invoice.AddValueWithTax(invoice.Value * 1.16);
             }
-            else if (invoice.Type == TypeInvoice.company)
+            else if (invoice.Type == TypeInvoice.personalWithDiscount)
             {
                 invoice.AddValueWithTax(invoice.Value * 1.12);
             }
